@@ -1,12 +1,18 @@
+# La Nación: unlimited articles
 
-# La Nación - Leer noticias ilimitadas
+[![License: MIT](https://img.shields.io/github/license/aerodiduch/la-nacion-noticias-ilimitadas)](LICENSE) [![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-La%20Nacion%20Cleaner-670000)](https://greasyfork.org/en/scripts/457012-la-nacion-cleaner) ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-userscript-00485B?logo=tampermonkey&logoColor=white)
 
-Un pequeño script en Javascript que libera el bloqueo mensual, permitiendo que podamos leer todas las noticias que queramos sin la necesidad de suscribirnos.
+[Español](README.es.md)
 
-# Instalación
+Tired of La Nación's monthly article limit? This is a small JavaScript userscript that lifts it, so you can keep reading without subscribing.
 
-Este es un script que funciona en conjunto a la extensión de [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related?hl=es), disponible para la gran mayoría de navegadores basados en Chromium.
+## Install
 
-Simplemente instalar dicha extensión bajo el botón `Instalar` y luego de eso para instalar este script es tan sencillo como ingresar a [este enlance](https://greasyfork.org/en/scripts/457012-la-nacion-cleaner) de GreaseFork y clickear `Install this script` y nuevamente `Install` en la siguiente pantalla que aparezca.
+1. Install the [Tampermonkey](https://www.tampermonkey.net/) extension in your browser.
+2. Open the script on Greasy Fork, [La Nacion Cleaner](https://greasyfork.org/en/scripts/457012-la-nacion-cleaner), and click **Install this script**, then **Install** on the next screen.
 
-Una vez realizado esto, podremos leer noticias ilimitadas. 
+The script lives on Greasy Fork, not in this repo. It's from December 2022 (version 0.1) and the site may have changed since.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
